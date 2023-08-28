@@ -1,0 +1,15 @@
+Các thuộc tính của tập dữ liệu thô:
+•   WS50M: MERRA-2 Wind Speed at 50 Meters (m/s): Tốc độ trung bình của gió ở độ cao 50 mét so với bề mặt trái đất.
+•	WS50M_RANGE: MERRA-2 Wind Speed at 50 Meters Range (m/s): Phạm vi tốc độ gió tối thiểu và tối đa hàng giờ ở độ cao 50 mét so với bề mặt trái đất.
+•	QV2M: MERRA-2 Specific Humidity at 2 Meters (g/kg): Tỷ số giữa khối lượng hơi nước với tổng khối lượng không khí ở 2m (g nước / kg tổng khối lượng không khí).
+•	PRECTOTCORR : MERRA-2 Precipitation Corrected (mm/day): Giá trị trung bình sai lệch của tổng lượng mưa trên bề mặt trái đất trong khối nước (bao gồm cả hàm lượng nước trong tuyết).
+•	ALLSKY_SFC_UV_INDEX: CERES SYN1deg All Sky Surface UV Index (dimensionless): Chỉ số tiếp xúc bức xạ tia cực tím.
+•	T2M_RANGE: MERRA-2 Temperature at 2 Meters Range (C): Khoảng nhiệt độ không khí (bầu khô) tối thiểu và tối đa hàng giờ ở độ cao 2 mét so với bề mặt trái đất trong khoảng thời gian quan tâm.
+•	ALLSKY_SFC_SW_DWN: CERES SYN1deg All Sky Surface Shortwave Downward Irradiance (kW-hr/m^2/day): Tổng sự cố bức xạ mặt trời (trực tiếp cộng với khuếch tán) trên một mặt phẳng nằm ngang ở bề mặt trái đất trong mọi điều kiện bầu trời. Một thuật ngữ thay thế cho tổng bức xạ mặt trời là "Bức xạ ngang toàn cầu" hoặc GHI.
+•	T2M: MERRA-2 Temperature at 2 Meters (C): Nhiệt độ không khí (bầu khô) trung bình ở độ cao 2m trên bề mặt trái đất.
+•	ALLSKY_KT: CERES SYN1deg All Sky Insolation Clearness Index (dimensionless): Một phần thể hiện độ trong của khí quyển; sự cách nhiệt toàn bộ bầu trời truyền qua bầu khí quyển tới bề mặt trái đất chia cho tổng sự cố bức xạ mặt trời trung bình của đỉnh khí quyển.
+•	ALLSKY_SFC_LW_DWN: CERES SYN1deg All Sky Surface Longwave Downward Irradiance (W/m^2): Bức xạ hồng ngoại nhiệt hướng xuống trong mọi điều kiện bầu trời tới một mặt phẳng nằm ngang bề mặt trái đất. Còn được gọi là Cường độ bức xạ hồng ngoại ngang từ bầu trời.
+•	WS2M: MERRA-2 Wind Speed at 2 Meters (m/s): Tốc độ trung bình của gió ở độ cao 2 mét so với bề mặt trái đất.
+•	ALLSKY_SFC_UVA: CERES SYN1deg All Sky Surface UVA Irradiance (W/m^2): Bức xạ tia cực tím A (UVA 315nm-400nm) trong mọi điều kiện bầu trời.
+•	ALLSKY_SFC_UVB: CERES SYN1deg All Sky Surface UVB Irradiance (W/m^2): Bức xạ tia cực tím B (UVB 280nm-315nm) trong mọi điều kiện bầu trời.
+•	ALLSKY_SFC_PAR_TOT: CERES SYN1deg All Sky Surface PAR Total (W/m^2): Tổng sự cố Bức xạ hoạt động quang hợp (PAR) trên một mặt phẳng nằm ngang ở bề mặt trái đất trong mọi điều kiện bầu trời.
